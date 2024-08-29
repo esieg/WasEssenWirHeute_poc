@@ -1,0 +1,7 @@
+{
+    "recipes_needed": 5,
+    "diet": ["Vegetarisch", "Vegan"],
+    "kidsproofen": false,
+    "time_total": 60,
+    "time_cooking": 60
+}
